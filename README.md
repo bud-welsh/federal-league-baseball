@@ -1,2 +1,4 @@
 # federal-league-baseball
-This is a tribute site for Federal League Baseball
+A tribute site for Federal League Baseball
+
+I am a baseball fan that wants to pay tribute to The Federal League.
